@@ -1,0 +1,6 @@
+.env
+/rccmanager.exe
+/rccmanager
+rccmanager-state.json
+*.tmp
+*.log
